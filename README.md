@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gra0105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
@@ -44,3 +44,4 @@
 <div align="center">
   <p><i>"Transforming data into insights."</i></p>
 </div>
+-->
